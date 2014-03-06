@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.tookasoft.portlet.addtocontacts.model.emailcontact">
+		<field name="emailId" type="long" />
+		<field name="createDate" type="Date" />
+		<field name="email" type="String" />
+	</model>
+</model-hints>

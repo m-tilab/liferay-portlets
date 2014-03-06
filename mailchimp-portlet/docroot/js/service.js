@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.addtocontactsportlet", "com.tookasoft.portlet.addtocontacts.service", "add-to-contacts-portlet");
